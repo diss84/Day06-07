@@ -1,0 +1,36 @@
+
+div.gallery{
+    margin: 25px;
+    float: left;
+    width: 250px;
+    flex-wrap: wrap;
+    margin-left: 90px;
+}
+div.gallery img{
+    width: 100%;
+    height: auto;
+    margin-right: 25px;
+}
+div.desc{
+    padding: 8px;
+    text-align:justify;
+    color:darkblue;
+    font-size: 10px;
+}
+.opis{
+    text-align: left;
+    font-size: 14;
+    color:royalblue;
+    margin: 10px;
+}
+.title{
+    text-align:center;
+    font-size: 25px;
+    color:red;
+}
+body{
+    display: inline-block;
+    flex: auto;
+    margin-left: 100px;
+}
+
